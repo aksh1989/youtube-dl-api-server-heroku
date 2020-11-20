@@ -103,7 +103,7 @@
         },
         "youtube-dl": {
             "hashes": [
-                "sha256:affb72a48f4e662abf557c18cee3462096723a41d9770f11d1c4d149f717d429",
+                "sha256:e20c4178669749e34878c88bea165382aadeffbe2bf8074443d2fa1c53e974fc",
                 "sha256:e54b307048bb18164729fb278013af6d5477c69c3d995147205a16f22a61296b"
             ],
             "version": "==2020.11.19"
